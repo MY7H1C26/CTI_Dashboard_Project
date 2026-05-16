@@ -94,4 +94,3 @@ CTI-Dashboard/
 * Allowed upload types: JPG, PNG, GIF, PDF.
 * Maximum upload size in the application code: 2 MB.
 * If uploads fail in XAMPP, check that `file\_uploads` is enabled in `php.ini`.
-* This project is intentionally simple and readable: native PHP pages, no Laravel, no Composer required.
